@@ -14,13 +14,6 @@
 
 }
 
-#blog {
-    float: right;
-    margin-right: 10px;
-    font-family: 'Roboto', sans-serif;
-
- }
-
 .break {
     display: block; /* makes it have a width */
     content: ""; /* clears default height */
